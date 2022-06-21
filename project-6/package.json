@@ -11,6 +11,13 @@
   "author": "pk <pkrasam@gmail.com> (https://ipfs.infura.io/ipfs/QmSXiR9Khm3yo1J67nUopvVBxFJ8YGN2fUGZ34Etr3m92x/)",
   "license": "MIT",
   "devDependencies": {
-    "lite-server": "2.4.0"
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@truffle/hdwallet-provider": "^2.0.9",
+    "truffle": "^5.5.18",
+    "truffle-hdwallet-provider": "^1.0.2",
+    "web3": "^1.7.3"
   }
 }
